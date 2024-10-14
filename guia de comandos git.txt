@@ -27,3 +27,9 @@ git push origin nome_da_branch -> Envia o código para o GitHub na nova branch
 Digite seu nome de usuário e senha do GitHub, se solicitado -> Faça login no GitHub, se necessário
 
 Verifique o GitHub -> As alterações devem aparecer na nova branch no GitHub
+
+----------------------------------------------------------------------------------------------------
+
+agora estamos na branch nova
+
+git checkout -b dev
